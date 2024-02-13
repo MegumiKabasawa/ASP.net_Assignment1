@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/so_pina/projects/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj": {}
+    "/Users/so_pina/projects/ASP.net_Assignment1/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj": {}
   },
   "projects": {
-    "/Users/so_pina/projects/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj": {
+    "/Users/so_pina/projects/ASP.net_Assignment1/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/so_pina/projects/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj",
+        "projectUniqueName": "/Users/so_pina/projects/ASP.net_Assignment1/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj",
         "projectName": "Csharp-Assignment_1",
-        "projectPath": "/Users/so_pina/projects/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj",
+        "projectPath": "/Users/so_pina/projects/ASP.net_Assignment1/Csharp-Assignment_1/Csharp-Assignment_1/Csharp-Assignment_1.csproj",
         "packagesPath": "/Users/so_pina/.nuget/packages/",
-        "outputPath": "/Users/so_pina/projects/Csharp-Assignment_1/Csharp-Assignment_1/obj/",
+        "outputPath": "/Users/so_pina/projects/ASP.net_Assignment1/Csharp-Assignment_1/Csharp-Assignment_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/so_pina/.nuget/NuGet/NuGet.Config"

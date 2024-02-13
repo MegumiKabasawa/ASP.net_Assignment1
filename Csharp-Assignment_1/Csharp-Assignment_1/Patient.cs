@@ -12,7 +12,7 @@ namespace Csharp_Assignment_1
 
         public Patient(string firstname, string lastname, double weight, double height, int systolic, int diastolic)
         {
-            FirstName = firstname;
+            this.FirstName = firstname;
             LastName = lastname;
             Weight = weight;
             Height = height;

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CAD6E07D-5CA1-4E03-8748-B8D32D864D5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASP.net__assignment1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP.net_assignment1/Program.cs">
+    <Files>
+      <File FileName="ASP.net_assignment1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP.net_assignment1">
+            <Node name="ASP.net_assignment1">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
